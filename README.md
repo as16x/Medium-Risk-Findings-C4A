@@ -1,4 +1,4 @@
-# 2023-High-Risk-Findings-C4A
+# 2023-Medium-Risk-Findings-C4A
 
 * [[M-01] Bypass userWithdrawLimitPerPeriod check - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-01-bypass-userwithdrawlimitperperiod-check)✅
 * [[M-02] The recipient receives free collateral token if an ERC20 token that deducts a fee on transfer used as baseToken - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-02-the-recipient-receives-free-collateral-token-if-an-erc20-token-that-deducts-a-fee-on-transfer-used-as-basetoken)
