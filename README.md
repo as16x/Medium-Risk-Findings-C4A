@@ -1,5 +1,9 @@
 # 2023-Medium-Risk-Findings-C4A
-
+* [[M-01] Missing deadline checks allow pending transactions to be maliciously executed - caviar.sh](https://code4rena.com/reports/2022-12-caviar#m-01-missing-deadline-checks-allow-pending-transactions-to-be-maliciously-executed)
+* [[M-02] Price will not always be 18 decimals, as expected and outlined in the comments - caviar.sh](https://code4rena.com/reports/2022-12-caviar#m-02-price-will-not-always-be-18-decimals-as-expected-and-outlined-in-the-comments)
+* [[M-03] Rounding error in `buyQuote` might result in free tokens - caviar.sh](https://code4rena.com/reports/2022-12-caviar#m-03-rounding-error-in-buyquote-might-result-in-free-tokens)
+* [[M-04] It's possible to swap NFT token ids without fee and also attacker can wrap unwrap all the NFT token balance of the Pair contract and steal their air drops for those token ids - caviar.sh](https://code4rena.com/reports/2022-12-caviar#m-04-its-possible-to-swap-nft-token-ids-without-fee-and-also-attacker-can-wrap-unwrap-all-the-nft-token-balance-of-the-pair-contract-and-steal-their-air-drops-for-those-token-ids)
+* [[M-05] Pair price may be manipulated by direct transfers - caviar.sh](https://code4rena.com/reports/2022-12-caviar#m-05-pair-price-may-be-manipulated-by-direct-transfers)
 * [[M-01] Bypass `userWithdrawLimitPerPeriod` check - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-01-bypass-userwithdrawlimitperperiod-check)✅
 * [[M-02] The recipient receives free collateral token if an ERC20 token that deducts a fee on transfer used as baseToken - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-02-the-recipient-receives-free-collateral-token-if-an-erc20-token-that-deducts-a-fee-on-transfer-used-as-basetoken)
 * [[M-03] Frontrunning for unallowed minting of Short and Long tokens - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-03-frontrunning-for-unallowed-minting-of-short-and-long-tokens)
