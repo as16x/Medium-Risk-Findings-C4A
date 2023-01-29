@@ -1,6 +1,6 @@
 # 2023-Medium-Risk-Findings-C4A
 
-* [[M-01] Bypass userWithdrawLimitPerPeriod check - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-01-bypass-userwithdrawlimitperperiod-check)✅
+* [[M-01] Bypass `userWithdrawLimitPerPeriod` check - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-01-bypass-userwithdrawlimitperperiod-check)✅
 * [[M-02] The recipient receives free collateral token if an ERC20 token that deducts a fee on transfer used as baseToken - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-02-the-recipient-receives-free-collateral-token-if-an-erc20-token-that-deducts-a-fee-on-transfer-used-as-basetoken)
 * [[M-03] Frontrunning for unallowed minting of Short and Long tokens - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-03-frontrunning-for-unallowed-minting-of-short-and-long-tokens)
 * [[M-04] PrePO NFT holders will not be able to redeem collateral - prepo.io](https://code4rena.com/reports/2022-12-prepo/#m-04-prepo-nft-holders-will-not-be-able-to-redeem-collateral-)
